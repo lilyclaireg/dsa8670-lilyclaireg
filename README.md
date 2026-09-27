@@ -73,3 +73,16 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+---
+
+## Why Version Control Matters
+
+Version control matters for analytics in order to preserve the integrity of the report, 
+especially during collaboration. In analytics and coding, changes made to code should be
+reviewed before being integrated into the final report; GitHub allows easier approval
+of these changes. If the change isn't rejected, then a benefit it brings is keeping track
+of each others changes; if the change is rejected, this is a clear example of version
+control protecting the original file. Our reading compared it to Google Docs, which I 
+like a lot; we can all edit simultaneously, but approval is needed before being pushed
+into the main/final file.
