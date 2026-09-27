@@ -6,4 +6,4 @@ Major / program: DSA MS
 
 Favorite dataset or industry interest: I am currently in finance, but open to other industries.
 
-One reason I am studying analytics:
+One reason I am studying analytics: I love math and computer science, which brought me to data science. It is a growing field, and having data literacy is soon going to be a baseline for the work we do in our world. 
